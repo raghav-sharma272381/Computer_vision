@@ -15,3 +15,5 @@ for some reason the files are not visible on this repository you can view all th
 the idea of this project was more of a joke but it turned out after fine tuning the model, cleaning and transforming the dataset it is fairly accurate (92%) 
 
 ![Screenshot 2024-01-16 at 2 09 01 PM](https://github.com/raghav-sharma272381/Computer_vision/assets/72136954/480c8ecc-64bf-406d-bbfb-416548ad48de)
+
+![Screenshot 2024-01-15 at 9 06 05 PM](https://github.com/raghav-sharma272381/Computer_vision/assets/72136954/ccd9595b-c41e-42e6-9f0a-376a56833987)
