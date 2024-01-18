@@ -1,4 +1,4 @@
-# Deep Learning computer vision application to differenciate between different types of daals ( lentils ) 
+# Deep Learning computer vision application to differentiate between different types of daals ( lentils ) 
 
 This Deep learning application uses resnet50 model and then fine tunes it according to custom data resulting in accuracy of around 92%, you can use it here : - 
 
